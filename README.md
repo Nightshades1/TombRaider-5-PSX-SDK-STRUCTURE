@@ -1,4 +1,4 @@
-![](http://mediafire.com/view/x2spjh8inwsluei/tr5psx.jpg)
+![Main](http://www.mediafire.com/view/x2spjh8inwsluei/tr5psx.jpg)
 
 This has been created by hands (not generated cause i liked to copy/paste much lol) it's from the PSX SDK,
 it's only for information purpose for how it should look, including drawing room, sounds,AI and many structure.
